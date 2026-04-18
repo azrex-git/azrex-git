@@ -24,4 +24,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=azrex-git&theme=tokyonight&height=195" width="49%" alt="Azrex's GitHub Stats" />
-  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azrex&theme=tokyonight&height=195" width="49%" alt="WakaTime Stats" />
+</p>
