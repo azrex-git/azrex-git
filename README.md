@@ -26,3 +26,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=azrex-git&theme=tokyonight&height=195" width="49%" alt="Azrex's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=azrex&v=1&theme=tokyonight&height=195" width="49%" alt="WakaTime Stats" />
 </p>
+
+//used &v=1 because it will reset the cache to get updated results from wakatime API, if coding time doesn't update omit 1 and write 2 or omit the whole &v=1
